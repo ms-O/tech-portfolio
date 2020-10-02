@@ -3,6 +3,8 @@ id: about
 title: About
 ---
 
+This is the output from a workshop that I attended at vGHC20.  It was fun.  
+
 You can start your "About" page with an elevator pitch, one or two
 sentences about you! The rest of this page page can
 include a little bit about yourself. Some things you
