@@ -11,4 +11,4 @@ a screenshot or GIF to show it.
 You can list [links](http://www58.homepage.villanova.edu/kristin.obermyer/)
 or even embed images with the following Markdown:
 
-![Add alternate text for image](./assets/phobos with dino cropped.jpg)
+![Add alternate text for image](./assets/phobos-with-dino-cropped.jpg)
