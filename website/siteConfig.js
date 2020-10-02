@@ -15,7 +15,7 @@ const siteConfig = {
     title: 'Kristin Obermyer', // Title for your website.
     tagline: 'Curious, experienced technologist.',
     profilePhoto: 'img/profile.png',
-    url: 'https://joatmon08.github.io', // Your website URL
+    url: 'https://ms-O.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
     //   url: 'https://facebook.github.io',
@@ -48,7 +48,7 @@ const siteConfig = {
     },
 
     // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
-    copyright: `Copyright © ${new Date().getFullYear()} Your Name Here`,
+    copyright: `Copyright © ${new Date().getFullYear()} Kristin Obermyer`,
 
     highlight: {
         // Highlight.js theme to use for syntax highlighting in code blocks.
